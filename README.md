@@ -1,4 +1,4 @@
 # game
 This is my first repo
 <br>
-Author-sandeep
+Author-sandeep prajapati
